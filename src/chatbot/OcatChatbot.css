@@ -1,0 +1,18 @@
+.chatbot-container {
+    height: 100%;
+}
+.chat-header {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #2F5496;
+    color: white;
+    height: 2em;
+    padding: 8px 16px;
+}
+
+.close-button {
+    color: white;
+    text-decoration: none;
+}
